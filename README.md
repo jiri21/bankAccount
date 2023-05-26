@@ -4,8 +4,11 @@ Command line app that reads csv file expored from electronic banking (raiffeisen
 Application accepts user specified input file, specification of time interval for analysis of transactions: start date, end date 
 
 Use argument
+
   --stats  ...  for basic output
+  
   --makeiplot  ...  for interactive plots
+  
   --bycategories  ...  for graphical output by categories
   
   
