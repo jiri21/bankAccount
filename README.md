@@ -11,5 +11,5 @@ Use argument
   
 Example of use:
 
-python bank_acc_analysis.py "sampledata.csv" "2023-01-01" "2023-02-20" --stats --makeiplot --bycategories
+python bank_acc_analysis.py "sample.csv" "2023-01-01" "2023-02-20" --stats --makeiplot --bycategories
 
